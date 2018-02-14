@@ -1,35 +1,33 @@
-package javaBeginner;
-
 import java.util.HashSet;
 import java.util.TreeSet;
+public class SetExample 
+{
+   public static void main(String args[]) 
+   {
+	  // HashSet of Integer Type
+         HashSet<Integer> hiset = new HashSet<Integer>();
 
-public class SetExample {
+         // Adding elements to HashSet<Integer>
+         hiset.add(88);
+         hiset.add(7);
+         hiset.add(101);
+         hiset.add(0);
+		 hiset.add(222);
+         hiset.add(222);
+         System.out.println(hiset);
+	
+	  
+	  // TreeSet of Integer Type
+         TreeSet<Integer> tset = new TreeSet<Integer>();
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		// Hashset of Integer type
-		HashSet<Integer> hSet = new HashSet<Integer>();
-		
-		hSet.add(88);
-		hSet.add(7);
-		hSet.add(101);
-		hSet.add(0);
-		hSet.add(222);
-		hSet.add(222);
-		
-		System.out.println("HashSet Values are:"+hSet);
-		
-		// TreeSet of Integer
-		TreeSet<Integer> tSet = new TreeSet<Integer>();
-		
-		tSet.add(88);
-		tSet.add(7);
-		tSet.add(101);
-		tSet.add(222);
-		tSet.add(3);
-		tSet.add(444);
-		
-		System.out.println("TreeSet Values are:"+tSet);
-	}
+         // Adding elements to TreeSet<Integer>
+         tset.add(88);
+         tset.add(7);
+         tset.add(101);
+         tset.add(0);
+		 tset.add(222);
+         tset.add(3);
+         tset.add(222);
+         System.out.println(tset);
+    }
 }

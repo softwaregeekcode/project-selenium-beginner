@@ -1,0 +1,57 @@
+1. Hello World program
+2. Inheritance Example
+3. PolyExample
+4. Encapsulation
+5. Create and execute java programs with multi level Inheritance
+6. Write a program to achieve Method overriding
+7. InterfaceExample.java
+8. SetExample.java
+9. ListExample.java
+10. MapExample.java
+11. Create and execute at least one programs using all Collections Frameworks  -- Not Completed
+12. Write a program to achieve Multiple Inheritance using Interfaces
+13. Google Search program 
+14. Google search - IE, Firefox, Chrome, Opera, Safari -- Not Completed
+15. FB signup
+16. Naukri.java  
+17. BocActions.java
+18. FramesExample.java
+19. Modify and execute the programs attached with this deck -- BOC and Frames  -- Not completed
+20. Find frames in gmail homepage after login  -- Not Completed
+21. SwitchWindowExample.java
+22. SwitchTabsExample.java  -- Not completed
+23. AlertExample.java
+24. Write a program to handle multiple windows and tabs on any online shopping website  -- not completed
+25. ExcelDataExample.java; Worksheet in Day 15  -- Not completed
+26. Write a data driven test to signup for gmail https://accounts.google.com/SignUp -- Not Completed
+27. TestNG:
+	Choose the "Install New Software..." option.
+	In Work with text box Type http://beust.com/eclipse
+28. Create and run TestNG classes for all the webdriver java programs developed so far
+29. http://testng.org/doc/documentation-main.html#annotations  -- TestNG Annotations, use all the annotations
+30. Day -17:
+	Understanding XML
+	Create a Suite of tests using XML
+	Run XML thru CMD
+	Run Test using batch file -- start_batchfile.bat
+31. Scheduling Tests
+32. Create a suite of all TestNG classes created and run the suite thru Batch. Also schedule the test suite run
+33. TestNG – Parallel classes execution
+34. TestNG – Parallel tests execution
+35. Log4j
+	static Logger logger = Logger.getLogger("executionlog");
+	PropertyConfigurator.configure("./logs/log4j.properties"); 
+
+	logger.error("Logged Error message");
+	logger.info("Logged Info Message");
+	logger.debug("Logged Debug Message");	        
+	logger.warn("Logged Warning Message");
+	logger.fatal("Logged Fatal Message");
+
+36. Setup a logger properties file for any two existing program and execute them in parallel
+37. VisualSVN Server
+	Server: VISUALSVN SERVER 
+	https://www.visualsvn.com/server/
+	Client : TortoiseSVN
+	https://tortoisesvn.net/downloads.html
+38. Setup a SVN Server and Client – do a simple code change Check-in

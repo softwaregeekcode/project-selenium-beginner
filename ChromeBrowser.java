@@ -1,20 +1,13 @@
-package browserLaunch;
+package projects;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ChromeBrowser {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.setProperty("webdriver.chrome.driver",".//libs/drivers/chromedriver");
-		WebDriver drv = new ChromeDriver();
-		drv.get("http://www.seleniumhq.org");
-		drv.findElement(By.linkText("many browsers")).click();
-		drv.findElement(By.linkText("browsers")).click();
-		drv.quit();
+		WebDriver drv;
 
 	}
 

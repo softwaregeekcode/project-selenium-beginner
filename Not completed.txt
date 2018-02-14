@@ -1,0 +1,6 @@
+1. Create and execute at least one programs using all Collections Frameworks  -- Not Completed
+2. Google search - IE, Firefox, Chrome, Opera, Safari -- Not Completed
+3. Modify and execute the programs attached with this deck -- BOC and Frames  -- Not completed
+4. Write a program to handle multiple windows and tabs on any online shopping website  -- not completed
+5. ExcelDataExample.java; Worksheet in Day 15  -- Not completed
+6. Write a data driven test to signup for gmail https://accounts.google.com/SignUp -- Not Completed

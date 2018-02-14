@@ -5,4 +5,4 @@
  * @author hari
  *
  */
-package javaBeginner;
+package DatabaseMigrationProjects;
